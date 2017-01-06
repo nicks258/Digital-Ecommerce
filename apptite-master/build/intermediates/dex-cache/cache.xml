@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.thefinestartist\utils\0.9.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1c257801a8f17ba722a2658c3f4e799c395c5bc0">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.thefinestartist-utils-0.9.0_20df899fa3551d7111b2f3adf04629bac699351b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1ba7ec8f87eced8610c716e35cf7cffc37b2213f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\net.rimoto\intlphoneinput\0.9.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="160851b01b952c0976a48052b40171b315dd0878">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.rimoto-intlphoneinput-0.9.3_67c8ab79025e55ce70084d09e86ff33f754b550d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64d8e0b57cb51bb266bf809bb10f21a329927b2b">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1705c00b874919cc37ba3b9bca2b17761bfd6114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="24cf6a07a72d61215741f1dfae951367b15bfff5">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c1fdc8d14d66f6ee206d448a4b3c37fbed2e870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_b380b08d9834a6a8b6f2d0a0fdcb62e8b1aa2344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cd6d5b8222b7faffe5374db1c61d829ceaa41768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.codemybrainsout.onboarding\onboarder\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57fc6ceed2aec32f9d5b845cbf2e4d6ec44a6f7e">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.codemybrainsout.onboarding-onboarder-1.0.0_d4871b8a5c74840aafd086ddea995019d0d81e1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d4b2902a2db670518f3fffb2279e0dfa8419efec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_11ad4fecc23c00787e5a2eec9002e72c518a5f44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.thefinestartist\annotations\0.9.0\b69d23b00ca5fd30feea91ab4b24a192d6b928ef\annotations-0.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b69d23b00ca5fd30feea91ab4b24a192d6b928ef">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-0.9.0_af1e0cbb315de524f279be38eeca79b953b8decf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_763fe5458d6ea1302ec2601e6baeb29338aa4366\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.googlecode.libphonenumber\libphonenumber\7.2.1\91b21f6fa0b639b8d71cce29b7e9109347d93919\libphonenumber-7.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="91b21f6fa0b639b8d71cce29b7e9109347d93919">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\libphonenumber-7.2.1_fa4f553814eb87d6c63ae69e487ce19286107882\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.2.1_513c854c5e822d2def651013c01f6949bd0db84a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f3dea1aee2291896d9b23c934cf0aaa4d1a5805d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\1.0-rc3\dda966552be274fa341c817e2b1588faf8e1b2\baseLibrary-1.0-rc3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00dda966552be274fa341c817e2b1588faf8e1b2">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-1.0-rc3_f2e0651cd7604bb9254ca8780551be22118959ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_0abd933c578d2fe396a73ea0ccfd21141fd91d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_28507789dfda14f1150aea0312a0ba2a6471d79e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2b704b88b53705de4b8bbe527ddea6a7ea472a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\preference-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb5d8b5c47b4e5c0184a7986a26bc12cfc51cde3">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-preference-v7-24.2.1_2f56e1077e1ff22a011488cd74175e0121651b23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_79d5f61508ef47f3f8d00a30b92f4dd217eb1850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1847846c27c4510127ced2230a18e6ddf56d349b">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.altbeacon-android-beacon-library-2.9_a5c9f01688986a5857f0d3f1e3ed86136fbc8c8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_cfd5602fc93373c385ad61c8d19474df1b9bbddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_4d56652af47dd0af62bc83fe9b2d08e9056e5e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_40b8b982c3fcd0b5ba137ac14d4ab872e8782bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7a3d862e95a8aaa339f9cc96f2aef6d0bd8cedc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b2abb31977da27e353050449900ad3351a6e1e9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.0-rc3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2af1f443cdb8cb78e1195b9b99013a6089ab35b0">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.0-rc3_c23086965983667b17acb8a47b18be6870dab5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6908622462c29a8b28a77113225a15deb016c54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.2\febfd2d9e89bde4c3a9723bcd9522cba96bddac7\dagger-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.2_bb86b550f282f7f2fc29fba9b5da88fafd5a53c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0ad35eadee3dfecd6533eaec8ad3b611ce835be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_50a3ebcffd4e0702473ac8e669952a9619b1a5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9a418c16d35fe91264482424f688de82fc23853a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_45caef2ad1b0d089f79d162bc692db1c5ba19547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_8b0e0d85277415e9d9c72230038a2e69fd81d9b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_7dd14c4d57d0c47952874815eeab6ede52fec184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\applications\hp\apptite-master\app\build\intermediates\exploded-aar\com.android.databinding\library\1.0-rc3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="acaeec786da68e5cfc30134c36cb5645a8a0c6ba">
+        <dex dex="F:\applications\hp\apptite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.0-rc3_bb29604acd452ed63f0198eb984110ca02c820d5\classes.dex" />
+    </item>
+
+</items>
